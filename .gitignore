@@ -2,7 +2,6 @@
 Thumbs.db*
 .DS_Store*
 HELP.md
-dist
 doc
 
 # Logs
@@ -85,5 +84,3 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
-
-.token.txt

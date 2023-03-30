@@ -1,6 +1,6 @@
 {
   "name": "@markinao/ajs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -19,5 +19,13 @@
     "babel-loader": "^9.1.2",
     "webpack": "^5.76.3",
     "webpack-cli": "^5.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkinAO/ajs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkinAO/ajs/issues"
+  },
+  "homepage": "https://github.com/MarkinAO/ajs#readme"
 }
